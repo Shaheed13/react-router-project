@@ -1,8 +1,37 @@
-# React + Vite
+### Reactrouter-project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```bash
+git clone https://github.com/Shaheed13/react-router-project.git
+cd react-router-project
+2. Install dependencies
+bash
+Copy
+Edit
+npm install
+3. Start the development server
+bash
+Copy
+Edit
+npm run dev
+Open http://localhost:5173 in your browser.
 
-Currently, two official plugins are available:
+🔗 Live Preview
+https://react-router-project-ten-xi.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+This project helped me understand the following:
+
+Setting up routing with react-router-dom
+
+Navigating between pages without reloading
+
+Structuring React projects using components
+
+Using Vite for fast development
+
+📫 Contact
+Shaik Galib Shaheed
+Email: shaik.shaheed962@gmail.com
+GitHub: Shaheed13
+
